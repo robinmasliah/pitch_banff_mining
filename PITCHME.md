@@ -6,3 +6,9 @@
 - Scrapping des données brutes.
 - Création dataframe.
 - Export CSV.
+![Image](scrap.png)
+---
+
+### Méthode 1
+
+
