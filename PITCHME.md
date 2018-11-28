@@ -1,5 +1,7 @@
 # Banff Mining
 ### V1
+Robin Masliah
+Gillian Divard
 ---
 
 ### Méthode 1
