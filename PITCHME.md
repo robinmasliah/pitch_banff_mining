@@ -14,3 +14,5 @@
 
 ### Méthode 1
 ![Image](banff_encoded.png)
+![Image](doc.png)
+
