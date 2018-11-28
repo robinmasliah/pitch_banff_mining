@@ -22,8 +22,12 @@ Cleaning :
 - Split des phrases.
 - Interactions avec le dictionnaire.
 - Suppression des stop words.
-- Ex : Vessels: The  cv  show focal  2  intimal  fibrosis.
+- Purification des phrase au maximum pour faciliter la recherche.
+- Ex : Vessels: The  cv  show focal  2  intimal  fibrosis.<br/>
+-> devient :  'cv 2'
 <br/>cv = 2
+<br/>
+- Ajout dans la table.
 ---
 ### Méthode 1
 Erreur :
@@ -40,3 +44,4 @@ Erreur :
 ### À suivre...
 - Déterminer l'innacceptable.
 - Étude text mining.
+- Gérer les clefs uniques patient-pdf-hôpital.
