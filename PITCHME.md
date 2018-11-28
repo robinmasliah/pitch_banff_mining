@@ -22,7 +22,7 @@ Cleaning :
 - Interactions avec le dictionnaire.
 - Suppression des stop words.
 - Ex : Vessels: The  cv  show focal  2  intimal  fibrosis.
-cv = 2
+<br/>cv = 2
 ---
 ### Méthode 1
 Erreur :
