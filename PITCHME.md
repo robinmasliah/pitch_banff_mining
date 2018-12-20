@@ -38,7 +38,8 @@ Erreur :
 - Étude du contexte.
 ---
 ### V2
-- Création de la métrique de validation : AUC, matrice de confusion
+- Automatisation V1 (75% fait)
+- Ne reste qu'à mettre le tout dans une base de donnée CSV.
 ---
 ### V2
 - Création de la métrique de validation : AUC, matrice de confusion
