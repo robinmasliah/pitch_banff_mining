@@ -5,7 +5,7 @@ Robin Masliah & Gillian Divard
 
 ### Introduction
 
-![Image](biopsie.svg)
+![Image](notepad.png)
 - Scrapping des données brutes.
 - Création dataframe.
 - Export CSV.<br/>
