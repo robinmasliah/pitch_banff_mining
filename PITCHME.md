@@ -17,7 +17,6 @@ Robin Masliah & Gillian Divard
 ![Image](banff_encoded.png)
 ![Image](doc.png)
 ---
-### Méthode 1
 ![Image](preparation.png)
 ---
 ### Méthode 1
