@@ -18,6 +18,9 @@ Robin Masliah & Gillian Divard
 ![Image](doc.png)
 ---
 ### Méthode 1
+![Image](preparation.png)
+---
+### Méthode 1
 Cleaning :
 - Split des phrases.
 - Interactions avec le dictionnaire.
