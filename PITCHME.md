@@ -12,10 +12,12 @@ Robin Masliah & Gillian Divard
 <br/>
 - Base de référence.
 ---
-
 ### Méthode 1
 ![Image](banff_encoded.png)
 ![Image](doc.png)
+---
+### Méthode 1
+![Image](dict.png)
 ---
 ![Image](preparation.png)
 ---
