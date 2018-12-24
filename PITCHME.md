@@ -1,10 +1,11 @@
 # Banff Mining
-### V1
+
 Robin Masliah & Gillian Divard
 ---
 
-### Méthode 1
+### Introduction
 
+![Image](biopsie.svg)
 - Scrapping des données brutes.
 - Création dataframe.
 - Export CSV.<br/>
