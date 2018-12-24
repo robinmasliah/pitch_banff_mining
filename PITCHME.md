@@ -18,7 +18,7 @@ Robin Masliah & Gillian Divard
 ![Image](doc.png)
 ---
 ### Méthode 1
-![Image](preparation.png)
+![Image](preparation.jpeg)
 ---
 ### Méthode 1
 Cleaning :
